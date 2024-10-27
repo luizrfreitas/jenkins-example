@@ -1,0 +1,12 @@
+workflow-aggregator
+git
+docker-workflow
+blueocean
+junit
+ansicolor
+slack
+email-ext
+credentials-binding
+role-strategy
+matrix-auth
+jacoco
